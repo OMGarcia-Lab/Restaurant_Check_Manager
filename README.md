@@ -12,7 +12,6 @@ java Restaurant_Check_Manager
 - Input Validation  
 - Tip and Total Cost Calculations  
 - Arithmetic formatting for currency  
-- Optional: bill splitting logic
 - User Error
 
 ---
